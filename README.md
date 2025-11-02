@@ -4,7 +4,7 @@ A comprehensive skills library of proven techniques, patterns, and workflows for
 
 ## What You Get
 
-- **Testing Skills** - TDD, async testing, anti-patterns
+- **Testing Skills** - Comprehensive testing, async patterns, anti-patterns
 - **Debugging Skills** - Systematic debugging, root cause tracing, verification
 - **Collaboration Skills** - Brainstorming, planning, code review, parallel agents
 - **Development Skills** - Git worktrees, finishing branches, subagent workflows
@@ -69,7 +69,7 @@ Tell Codex to fetch https://raw.githubusercontent.com/obra/superpowers/refs/head
 ### Automatic Skill Activation
 
 Skills activate automatically when relevant. For example:
-- `test-driven-development` activates when implementing features
+- `code-testing` activates after implementing feature components
 - `systematic-debugging` activates when debugging issues
 - `verification-before-completion` activates before claiming work is done
 
@@ -78,7 +78,7 @@ Skills activate automatically when relevant. For example:
 ### Skills Library
 
 **Testing** (`skills/testing/`)
-- **test-driven-development** - RED-GREEN-REFACTOR cycle
+- **code-testing** - Comprehensive verification after implementation
 - **condition-based-waiting** - Async test patterns
 - **testing-anti-patterns** - Common pitfalls to avoid
 
@@ -122,7 +122,7 @@ All commands are thin wrappers that activate the corresponding skill:
 
 ## Philosophy
 
-- **Test-Driven Development** - Write tests first, always
+- **Comprehensive Testing** - Validate implementations thoroughly
 - **Systematic over ad-hoc** - Process over guessing
 - **Complexity reduction** - Simplicity as primary goal
 - **Evidence over claims** - Verify before declaring success

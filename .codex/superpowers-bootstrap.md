@@ -23,7 +23,7 @@ When skills reference tools you don't have, substitute your equivalent tools:
 - If a relevant skill exists, you MUST use `~/.codex/superpowers/.codex/superpowers-codex use-skill` to load it
 - Announce: "I've read the [Skill Name] skill and I'm using it to [purpose]"
 - Skills with checklists require `update_plan` todos for each item
-- NEVER skip mandatory workflows (brainstorming before coding, TDD, systematic debugging)
+- NEVER skip mandatory workflows (brainstorming before coding, testing, systematic debugging)
 
 **Skills location:**
 - Superpowers skills: ~/.codex/superpowers/skills/

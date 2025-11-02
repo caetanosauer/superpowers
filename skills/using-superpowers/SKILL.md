@@ -67,13 +67,13 @@ Before using a skill, announce that you are using it.
 
 **Examples:**
 - "I'm using the brainstorming skill to refine your idea into a design."
-- "I'm using the test-driven-development skill to implement this feature."
+- "I'm using the code-testing skill to verify this component."
 
 **Why:** Transparency helps your human partner understand your process and catch errors early. It also confirms you actually read the skill.
 
 # About these skills
 
-**Many skills contain rigid rules (TDD, debugging, verification).** Follow them exactly. Don't adapt away the discipline.
+**Many skills contain rigid rules (testing, debugging, verification).** Follow them exactly. Don't adapt away the discipline.
 
 **Some skills are flexible patterns (architecture, naming).** Adapt core principles to your context.
 
@@ -83,7 +83,7 @@ The skill itself tells you which type it is.
 
 Your human partner's specific instructions describe WHAT to do, not HOW.
 
-"Add X", "Fix Y" = the goal, NOT permission to skip brainstorming, TDD, or RED-GREEN-REFACTOR.
+"Add X", "Fix Y" = the goal, NOT permission to skip brainstorming or testing workflows.
 
 **Red flags:** "Instruction was specific" • "Seems simple" • "Workflow is overkill"
 

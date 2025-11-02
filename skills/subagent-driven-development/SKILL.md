@@ -46,7 +46,7 @@ Task tool (general-purpose):
 
     Read that task carefully. Your job is to:
     1. Implement exactly what the task specifies
-    2. Write tests (following TDD if task says to)
+    2. Write tests to verify the implementation (use code-testing skill)
     3. Verify implementation works
     4. Commit your work
     5. Report back
@@ -148,7 +148,7 @@ Done!
 ## Advantages
 
 **vs. Manual execution:**
-- Subagents follow TDD naturally
+- Subagents apply testing discipline naturally
 - Fresh context per task (no confusion)
 - Parallel-safe (subagents don't interfere)
 
@@ -181,7 +181,7 @@ Done!
 - **finishing-a-development-branch** - REQUIRED: Complete development after all tasks (see Step 7)
 
 **Subagents must use:**
-- **test-driven-development** - Subagents follow TDD for each task
+- **code-testing** - Subagents verify implementations comprehensively for each task
 
 **Alternative workflow:**
 - **executing-plans** - Use for parallel session instead of same-session execution

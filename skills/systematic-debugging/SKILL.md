@@ -176,7 +176,7 @@ You MUST complete each phase before proceeding to the next.
    - Automated test if possible
    - One-off test script if no framework
    - MUST have before fixing
-   - **REQUIRED SUB-SKILL:** Use superpowers:test-driven-development for writing proper failing tests
+   - Write a failing test that reproduces the bug before implementing the fix
 
 2. **Implement Single Fix**
    - Address the root cause identified
@@ -279,7 +279,7 @@ If systematic investigation reveals issue is truly environmental, timing-depende
 
 **This skill requires using:**
 - **root-cause-tracing** - REQUIRED when error is deep in call stack (see Phase 1, Step 5)
-- **test-driven-development** - REQUIRED for creating failing test case (see Phase 4, Step 1)
+- **code-testing** - RECOMMENDED for comprehensive verification after fix (see Phase 4, Step 3)
 
 **Complementary skills:**
 - **defense-in-depth** - Add validation at multiple layers after finding root cause

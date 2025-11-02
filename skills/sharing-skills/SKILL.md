@@ -29,7 +29,7 @@ Contribute skills from your local branch back to the upstream repository.
 
 - `gh` CLI installed and authenticated
 - Working directory is `~/.config/superpowers/skills/` (your local clone)
-- **REQUIRED:** Skill has been tested using writing-skills TDD process
+- **REQUIRED:** Skill has been tested with subagents to ensure it works
 
 ## Sharing Workflow
 
